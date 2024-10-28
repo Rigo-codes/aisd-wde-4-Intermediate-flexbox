@@ -17,16 +17,16 @@ responsive_flexbox
 
 
 ## 1. **Create the Project Folder and Files**
-   - [ ] Create a folder named `responsive_flexbox` to store all your project files.
+   - [x ] Create a folder named `responsive_flexbox` to store all your project files.
    
-   - [ ] Inside the `responsive_flexbox` folder, create a file named `index.html`. This will be your main HTML file.
+   - [ x] Inside the `responsive_flexbox` folder, create a file named `index.html`. This will be your main HTML file.
    
-   - [ ] In the `responsive_flexbox` folder, create another file named `styles.css`. This file will contain the CSS used to style your HTML content.
+   - [x ] In the `responsive_flexbox` folder, create another file named `styles.css`. This file will contain the CSS used to style your HTML content.
 
 ## 2. **Start with an HTML Boilerplate**
 Now that you have your files set up, start by adding the basic HTML5 boilerplate.
 
-  - [ ] Open your currently empty index.html file and add the following code to it.
+  - [x ] Open your currently empty index.html file and add the following code to it.
 
 ```html
 <!DOCTYPE html>
@@ -49,7 +49,7 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 ## 3. **Add the Navigation Bar**
 In this step, you will add a simple navigation bar to the webpage, providing links to key sections.
 
- - [ ] In `index.html`, within the `<body>` tags, add the following code for the navigation bar:
+ - [ x] In `index.html`, within the `<body>` tags, add the following code for the navigation bar:
 
 ```html
 <header>
@@ -70,7 +70,7 @@ In this step, you will add a simple navigation bar to the webpage, providing lin
 ## 4. **Add the Main Section**
 You will now add the main content section to the webpage, which includes multiple content boxes arranged using Flexbox.
 
-- [ ] In `index.html`, below the navigation bar code after the `</header>` tag, add the following code for the main section:
+- [x ] In `index.html`, below the navigation bar code after the `</header>` tag, add the following code for the main section:
 
 ```html
 <main>
@@ -96,7 +96,7 @@ You will now add the main content section to the webpage, which includes multipl
 ## 5. **Add the Footer**
 In this step, you will add a footer to the webpage to display copyright information at the bottom.
 
-- [ ] In `index.html`, below the main section code after the `</main>` tag, add the following code for the footer:
+- [x ] In `index.html`, below the main section code after the `</main>` tag, add the following code for the footer:
 
 ```html
 <footer>
@@ -111,7 +111,7 @@ In this step, you will add a footer to the webpage to display copyright informat
 ## 6. **CSS for Basic Reset and Body Styles**
 You will add CSS styles to reset default browser styles and define the basic layout and appearance of the webpage's body.
 
-- [ ] Open `style.css` and add the following styles:
+- [x ] Open `style.css` and add the following styles:
 
 ```css
 * {
@@ -180,7 +180,7 @@ nav ul li a {
 ## 8. **Style the Hero Section**
 In this step, you will style the hero section to ensure it is visually centered and occupies the appropriate space within the webpage.
 
-- [ ] Open `style.css` and add the following styles:
+- [ x] Open `style.css` and add the following styles:
 
 ```css
 .hero {
@@ -203,7 +203,7 @@ In this step, you will style the hero section to ensure it is visually centered 
 ## 9. **Style the Content Section**
 In this step, you will style the content section to create a responsive, well-spaced layout for the content boxes.
 
-- [ ] Open `style.css` and add the following styles:
+- [x ] Open `style.css` and add the following styles:
 
 ```css
 .content {
@@ -233,7 +233,7 @@ The content section is a flex container with evenly spaced, responsive boxes tha
 ## 10. **Style the Footer**
 In this step, you will style the footer to match the overall design by giving it a dark background, white text, and centered alignment.
 
-- [ ] Lastly, open `style.css` and add the following styles:
+- [ x] Lastly, open `style.css` and add the following styles:
 
 ```css
 footer {
@@ -251,16 +251,16 @@ footer {
 Now, you will test the responsiveness of your layout by resizing the browser window and adding more content.
 
 
-- [ ] Resize the browser window to see how the Flexbox layout adapts to different screen sizes.
-- [ ] Copy and paste the HTML boxes a few more times to see how Flexbox handles the additional content.
-- [ ] Resize the window again to observe how the layout remains responsive.
+- [x ] Resize the browser window to see how the Flexbox layout adapts to different screen sizes.
+- [x ] Copy and paste the HTML boxes a few more times to see how Flexbox handles the additional content.
+- [ x] Resize the window again to observe how the layout remains responsive.
 
 **Explanation:**
 - We’ll check how the Flexbox layout adjusts to different screen sizes and manages additional content, ensuring it stays responsive and properly structured.
 
 
 ## 12. **Commit and Push to Github**
- - [ ] Commit and push your work to Github.
+ - [ x] Commit and push your work to Github.
 
 ##
 
